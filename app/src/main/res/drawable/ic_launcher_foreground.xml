@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Career Graduation Cap & Upward Arrow / Briefcase Symbol -->
+    <!-- Cap Diamond / Top -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,28 L78,40 L54,52 L30,40 Z" />
+    <!-- Cap Brim Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,46 L38,55 C38,62 70,62 70,55 L70,46 L54,54 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,40 L81,49 C82,51 84,53 84,56 C84,57.5 83,59 81.5,59 C80,59 79,57.5 79,56 L77,42 Z" />
+    <!-- Briefcase Body / Career Foundation -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M36,63 C34.9,63 34,63.9 34,65 L34,77 C34,78.1 34.9,79 36,79 L72,79 C73.1,79 74,77 74,77 L74,65 C74,63.9 73.1,63 72,63 Z" />
+    <!-- Briefcase Handle -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M49,60 L59,60 C59.6,60 60,60.4 60,61 L60,63 L48,63 L48,61 C48,60.4 48.4,60 49,60 Z" />
+    <!-- Rising Spark / AI Star -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,66 L55.5,70 L59.5,71.5 L55.5,73 L54,77 L52.5,73 L48.5,71.5 L52.5,70 Z" />
+    <!-- Upward Trend Accent in corner -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M74,34 L82,34 L82,42 L79,39 L73,45 L70,42 L76,36 Z" />
+</vector>

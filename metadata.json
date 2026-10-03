@@ -1,0 +1,6 @@
+{
+  "name": "CareerMate AI",
+  "description": "AI-powered career platform for students and fresh graduates. Discover jobs, practice interviews, optimize resumes, and track career progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

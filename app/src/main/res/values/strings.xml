@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CareerMate AI</string>
+    <string name="app_tagline">Your AI Career Partner — Find. Prepare. Get Hired.</string>
+    <string name="app_subtitle">Discover jobs, optimize your resume, practice interviews and build the skills your dream job demands — all in one place.</string>
+    <string name="cta_find_jobs">Find My Dream Job</string>
+    <string name="cta_practice_interview">Practice Interview</string>
+</resources>
